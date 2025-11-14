@@ -1,0 +1,1 @@
+C:\project1\runs\detect\yolov8s_pen_pencil_train\weights\best.pt

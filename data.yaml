@@ -1,0 +1,6 @@
+
+train: C:/project1/data/train/images
+val: C:/project1/data/valid/images
+
+nc: 2
+names: ['pen', 'pencil']
